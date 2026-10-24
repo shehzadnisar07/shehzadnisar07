@@ -250,18 +250,19 @@ Database
 ## `< CONTRIBUTION.METRICS />`
 
 ```
+
 ╔════════════════════════════════════════════════════════════╗
 ║        LIVE STATISTICS — PULLED DIRECTLY FROM GITHUB        ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shehzad-Nisar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=8B949E&ring_color=2DD4BF" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Shehzad-Nisar&theme=dark&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shehzadnisar07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=8B949E&ring_color=2DD4BF" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=shehzadnisar07&theme=dark&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shehzad-Nisar&theme=react-dark&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=E6EDF3&area=true&area_color=2DD4BF&hide_border=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shehzadnisar07&theme=react-dark&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=E6EDF3&area=true&area_color=2DD4BF&hide_border=true" alt="Activity Graph" />
 </p>
 
 <sub align="center">📊 Every metric is live-generated — nothing is hard-coded</sub>
